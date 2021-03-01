@@ -1,0 +1,5 @@
+1. Get rid of setColor, I can change it to just "mainBrush.color = ()"
+2. Add More Colors
+3. Add More Brushes
+4. Add Buttons
+5. Tidy up saving
