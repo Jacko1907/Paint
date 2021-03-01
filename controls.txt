@@ -1,0 +1,10 @@
+these dont change anything
+
+1 - Normal Brush
+2 - Square Brush 
+3 - Rubber
+
+Up Arrow - Makes brush bigger
+Down Arrow - Makes brush smaller 
+Left Arrow - Changes Color 
+Right Arrow - Changes Color
